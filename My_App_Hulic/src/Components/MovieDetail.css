@@ -13,7 +13,7 @@
     .details{ padding: 35px; font-size:23px; text-align: left;}
   }
   p {margin-bottom: 15px;}
-  /* Large screens (desktops) */
+
   @media only screen and (min-width: 601px) {
     body {
       font-size: 16px;
